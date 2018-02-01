@@ -1,4 +1,4 @@
-## An average Developer's code
+## A common Developer's code
 
 #### Description
 This sample code will show some examples of bad coding practices.
